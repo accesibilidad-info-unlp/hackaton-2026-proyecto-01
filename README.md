@@ -11,13 +11,21 @@ Breve descripción del proyecto y del problema que busca resolver.
 
 ## Tecnologías utilizadas
 
-- Tecnología 1
-- Tecnología 2
+- Python 3.13
+- Streamlit
+- Folium
+- Pandas
+- matplotlib
 
 ## Instalación y ejecución
 
-Pasos necesarios para ejecutar el proyecto.
+```bash
+python3 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ## Estado actual
 
-Descripción breve del estado del proyecto.
+En construcción
