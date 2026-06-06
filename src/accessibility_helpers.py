@@ -2,12 +2,12 @@ import streamlit as st
 
 # Opciones para renderizar
 _LABELS = {
-    "none":            "None",
-    "invert":          "Invert Colors",
-    "sat_high":        "High Saturation",
-    "sat_low":         "Low Saturation",
-    "mono":            "Monochrome",
-    "highlight_links": "Highlight Links",
+    "none":            "Ninguno",
+    "invert":          "Invertir colores",
+    "sat_high":        "Saturación alta",
+    "sat_low":         "Saturación baja",
+    "mono":            "Monocromático",
+    "highlight_links": "Resaltar enlaces",
 }
 
 # Notas: hue-rotate invierte sin corrimiento de tonos

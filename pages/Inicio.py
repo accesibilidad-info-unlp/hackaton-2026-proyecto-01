@@ -63,8 +63,8 @@ st.caption(
     "🚀 Proyecto desarrollado para la Hackatón 2026 - Facultad de Informática, UNLP."
 )
 
-st.subheader("Accesibilidad")
-st.write(
-    "Esta sección permite ajustar la visualización de la aplicación para personas con discapacidad visual."
-)
-ah.render_color_blindness_ui()
+with st.expander("Accesibilidad", expanded=False):
+    st.markdown(
+        "Esta sección permite ajustar la visualización de la aplicación para personas con discapacidad visual."
+    )
+    ah.render_color_blindness_ui()
