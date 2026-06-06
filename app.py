@@ -8,6 +8,3 @@ pages = [
     st.Page("pages/Ficha_de_datos.py", title="Ficha de datos") # Oculta
 ]
 
-# Inicializa la navegación ocultando el sidebar por defecto
-pg = st.navigation(pages, position="hidden")
-pg.run()
