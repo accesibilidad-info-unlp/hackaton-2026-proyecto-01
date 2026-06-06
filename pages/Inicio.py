@@ -1,6 +1,7 @@
 import streamlit as st
 import sys
 from pathlib import Path
+import src.accessibility_helpers as ah
 
 # Configuración de la ruta para importar módulos visuales (como la sidebar)
 sys.path.insert(0, str(Path(__file__).parent.parent / "src" / "visuals"))
@@ -61,3 +62,9 @@ st.markdown("---")
 st.caption(
     "🚀 Proyecto desarrollado para la Hackatón 2026 - Facultad de Informática, UNLP."
 )
+
+st.subheader("Accesibilidad")
+st.write(
+    "Esta sección permite ajustar la visualización de la aplicación para personas con discapacidad visual."
+)
+ah.render_color_blindness_ui()
