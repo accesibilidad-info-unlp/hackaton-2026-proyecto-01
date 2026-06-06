@@ -6,7 +6,7 @@ Breve descripción del proyecto y del problema que busca resolver.
 
 ## Integrantes
 
-- Nombre Apellido
+- Luz Davico
 - Nombre Apellido
 
 ## Tecnologías utilizadas
