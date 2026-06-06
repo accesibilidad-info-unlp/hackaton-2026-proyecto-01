@@ -7,7 +7,7 @@ Breve descripción del proyecto y del problema que busca resolver.
 ## Integrantes
 
 - Luz Davico
-- Nombre Apellido
+- Rocco Milito
 
 ## Tecnologías utilizadas
 

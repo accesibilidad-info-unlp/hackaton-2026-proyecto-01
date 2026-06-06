@@ -1,0 +1,10 @@
+idMapa,nombreEspacio,tipoEspacio,piso,responsable,catedrasAsignadas,capacidad,tieneProyector,estadoActual
+Baños,Baños 1er Piso,Baño,1er Piso,Personal de Servicios,,0,FALSE,Disponible
+1,Aula 1-1,Aula,1er Piso,Prof. Ricardo Gomez,Programacion 1,45,TRUE,Disponible
+2,Aula 1-2,Aula,1er Piso,Lic. Laura Fernandez,Redes,45,TRUE,Disponible
+3,Aula 1-3,Aula,1er Piso,Ing. Sofia Martinez,Bases de Datos,45,TRUE,Ocupado
+4,Aula 1-4,Aula,1er Piso,Dr. Carlos Lopez,Matematica 1,45,TRUE,Disponible
+5,LIFIA,Laboratorio,1er Piso,Ing. Martin Rodriguez,Investigacion / Practicas,25,TRUE,Disponible
+6,Sala de Computo - Grado,Laboratorio,1er Piso,Dra. Ana Silva,Practicas,30,TRUE,Disponible
+7-16,Area Decanato,Administracion,1er Piso,Dra. Ana Silva,,5,FALSE,Disponible
+17,HCD,Administracion,1er Piso,Directorio,,20,TRUE,Disponible

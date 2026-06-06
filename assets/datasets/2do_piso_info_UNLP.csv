@@ -1,0 +1,15 @@
+idMapa,nombreEspacio,tipoEspacio,piso,responsable,catedrasAsignadas,capacidad,tieneProyector,estadoActual
+Baños,Baños 2do Piso,Baño,2do Piso,Personal de Servicios,,0,FALSE,Disponible
+1,LINTI,Laboratorio,2do Piso,Ing. Martin Rodriguez,Investigacion,20,TRUE,Disponible
+2,III-LIDI,Laboratorio,2do Piso,Dra. Ana Silva,Investigacion,20,TRUE,Disponible
+3,Secretaria LINTI,Administracion,2do Piso,Personal Administrativo,,2,FALSE,Disponible
+4,Direccion de Postgrado,Administracion,2do Piso,Dr. Carlos Lopez,,5,FALSE,Disponible
+5,Secretaria de Postgrado,Administracion,2do Piso,Personal Administrativo,,5,FALSE,Disponible
+6,Sala de Prof. de Postgrado,Espacio Comun,2do Piso,Profesores,,15,FALSE,Disponible
+7,Aula 1 - Modula,Aula,2do Piso,Lic. Laura Fernandez,Sistemas Operativos,30,TRUE,Disponible
+8,Aula 2 - OCCAM,Aula,2do Piso,Ing. Sofia Martinez,Programacion 1,30,TRUE,Ocupado
+9,Aula 3 - GPSS,Aula,2do Piso,Prof. Ricardo Gomez,Redes,30,TRUE,Disponible
+10,Aula 4 - RPG,Aula,2do Piso,Dr. Carlos Lopez,Matematica 1,30,TRUE,Disponible
+11,Aula 5 - Phonegap,Aula,2do Piso,Ing. Martin Rodriguez,Bases de Datos,30,TRUE,En Mantenimiento
+12,Sala de Computo - Postgrado,Laboratorio,2do Piso,Dra. Ana Silva,Practicas Postgrado,20,TRUE,Disponible
+13,Aula 6 - SQL,Aula,2do Piso,Lic. Laura Fernandez,Ingenieria de Software,45,TRUE,Disponible

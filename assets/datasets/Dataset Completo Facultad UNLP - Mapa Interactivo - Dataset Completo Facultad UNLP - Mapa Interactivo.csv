@@ -1,0 +1,54 @@
+idMapa,nombreEspacio,tipoEspacio,piso,responsable,catedrasAsignadas,capacidad,tieneProyector,estadoActual
+1,Aula 1,Aula,Planta Baja,Prof. Ricardo Gomez,Programacion 1,60,TRUE,Disponible
+2,Aula 2,Aula,Planta Baja,Lic. Laura Fernandez,Redes,30,TRUE,Disponible
+3,Aula 3,Aula,Planta Baja,Ing. Martin Rodriguez,Programacion 1,45,TRUE,Disponible
+4,Aula 4,Aula,Planta Baja,Dra. Ana Silva,Ingenieria de Software,45,TRUE,En Mantenimiento
+5,Fotocopiadora,Servicio,Planta Baja,Personal de Servicios,,0,FALSE,En Mantenimiento
+Baños,Baños PB,Baño,Planta Baja,Personal de Servicios,,0,FALSE,Disponible
+6,Aula 6,Aula,Planta Baja,Ing. Sofia Martinez,"Programacion 1, Bases de Datos",100,TRUE,Disponible
+7,Aula 7,Aula,Planta Baja,Lic. Laura Fernandez,Sistemas Operativos,30,TRUE,Disponible
+8,Aula 8,Aula,Planta Baja,Ing. Martin Rodriguez,"Sistemas Operativos, Ingenieria de Software",60,TRUE,Ocupado
+9,Aula 9,Aula,Planta Baja,Prof. Ricardo Gomez,"Ingenieria de Software, Programacion 1",100,TRUE,Disponible
+10,Aula 10A,Aula,Planta Baja,Dra. Ana Silva,Matematica 1,45,TRUE,Disponible
+11,Aula 10B,Aula,Planta Baja,Lic. Laura Fernandez,Matematica 1,45,TRUE,Disponible
+12,Aula 11,Aula,Planta Baja,Ing. Sofia Martinez,Redes,30,TRUE,Disponible
+13,Aula 14,Aula,Planta Baja,Dr. Carlos Lopez,Bases de Datos,60,TRUE,Ocupado
+14,Aula 15,Aula,Planta Baja,Ing. Martin Rodriguez,Programacion 1,45,TRUE,Disponible
+15,Biblioteca,Servicio,Planta Baja,Personal de Servicios,,0,FALSE,Ocupado
+16,Aula 5,Aula,Planta Baja,Dra. Ana Silva,Ingenieria de Software,60,TRUE,Disponible
+17,Buffet,Servicio,Planta Baja,Personal de Servicios,,0,FALSE,En Mantenimiento
+18,Intendencia,Administracion,Planta Baja,Lic. Laura Fernandez,,2,FALSE,Ocupado
+19,Mesa de Entradas,Administracion,Planta Baja,Personal Administrativo,,2,FALSE,Disponible
+20,Alumnos,Administracion,Planta Baja,Personal Administrativo,,5,FALSE,Disponible
+21,Direc. Economico Financiera,Administracion,Planta Baja,Dr. Carlos Lopez,,5,FALSE,Disponible
+22,Contable,Administracion,Planta Baja,Personal Administrativo,,5,FALSE,Disponible
+23,Compras e Inventario,Administracion,Planta Baja,Personal Administrativo,,2,FALSE,Disponible
+24,Secretaria Administrativa,Administracion,Planta Baja,Personal Administrativo,,5,FALSE,Disponible
+25,Personal,Administracion,Planta Baja,Personal Administrativo,,5,FALSE,Disponible
+26,Despacho,Administracion,Planta Baja,Personal Administrativo,,2,FALSE,Disponible
+27,Sala de Profesores de Grado,Espacio Comun,Planta Baja,Profesores,,20,FALSE,Disponible
+28,Area de Rendiciones,Administracion,Planta Baja,Personal Administrativo,,2,FALSE,Disponible
+29,Mantenimiento,Servicio,Planta Baja,Personal de Servicios,,0,FALSE,Disponible
+Baños,Baños 1er Piso,Baño,1er Piso,Personal de Servicios,,0,FALSE,Disponible
+1,Aula 1-1,Aula,1er Piso,Prof. Ricardo Gomez,Programacion 1,45,TRUE,Disponible
+2,Aula 1-2,Aula,1er Piso,Lic. Laura Fernandez,Redes,45,TRUE,Disponible
+3,Aula 1-3,Aula,1er Piso,Ing. Sofia Martinez,Bases de Datos,45,TRUE,Ocupado
+4,Aula 1-4,Aula,1er Piso,Dr. Carlos Lopez,Matematica 1,45,TRUE,Disponible
+5,LIFIA,Laboratorio,1er Piso,Ing. Martin Rodriguez,Investigacion / Practicas,25,TRUE,Disponible
+6,Sala de Computo - Grado,Laboratorio,1er Piso,Dra. Ana Silva,Practicas,30,TRUE,Disponible
+7-16,Area Decanato,Administracion,1er Piso,Dra. Ana Silva,,5,FALSE,Disponible
+17,HCD,Administracion,1er Piso,Directorio,,20,TRUE,Disponible
+Baños,Baños 2do Piso,Baño,2do Piso,Personal de Servicios,,0,FALSE,Disponible
+1,LINTI,Laboratorio,2do Piso,Ing. Martin Rodriguez,Investigacion,20,TRUE,Disponible
+2,III-LIDI,Laboratorio,2do Piso,Dra. Ana Silva,Investigacion,20,TRUE,Disponible
+3,Secretaria LINTI,Administracion,2do Piso,Personal Administrativo,,2,FALSE,Disponible
+4,Direccion de Postgrado,Administracion,2do Piso,Dr. Carlos Lopez,,5,FALSE,Disponible
+5,Secretaria de Postgrado,Administracion,2do Piso,Personal Administrativo,,5,FALSE,Disponible
+6,Sala de Prof. de Postgrado,Espacio Comun,2do Piso,Profesores,,15,FALSE,Disponible
+7,Aula 1 - Modula,Aula,2do Piso,Lic. Laura Fernandez,Sistemas Operativos,30,TRUE,Disponible
+8,Aula 2 - OCCAM,Aula,2do Piso,Ing. Sofia Martinez,Programacion 1,30,TRUE,Ocupado
+9,Aula 3 - GPSS,Aula,2do Piso,Prof. Ricardo Gomez,Redes,30,TRUE,Disponible
+10,Aula 4 - RPG,Aula,2do Piso,Dr. Carlos Lopez,Matematica 1,30,TRUE,Disponible
+11,Aula 5 - Phonegap,Aula,2do Piso,Ing. Martin Rodriguez,Bases de Datos,30,TRUE,En Mantenimiento
+12,Sala de Computo - Postgrado,Laboratorio,2do Piso,Dra. Ana Silva,Practicas Postgrado,20,TRUE,Disponible
+13,Aula 6 - SQL,Aula,2do Piso,Lic. Laura Fernandez,Ingenieria de Software,45,TRUE,Disponible
