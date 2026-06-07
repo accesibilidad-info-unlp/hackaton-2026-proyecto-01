@@ -8,6 +8,7 @@ Breve descripción del proyecto y del problema que busca resolver.
 
 - Luz Davico
 - Rocco Milito
+- Felipe Joaquín Borrazás
 
 ## Tecnologías utilizadas
 
